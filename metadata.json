@@ -1,0 +1,6 @@
+{
+  "name": "Priyadarshani Indira Mahavidyalaya Website",
+  "description": "An interactive, modular college website and live content editor for Priyadarshani Indira Mahavidyalaya, offering easy updates for notices, courses, and portal details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
